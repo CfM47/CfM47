@@ -2,6 +2,10 @@
 
 ---
 
+![nuevo logo](https://github.com/CfM47/CfM47/assets/127993286/d42e6f3e-3c4e-4652-9641-6cbcdee79c76)
+
+---
+
 ### About Me
 
 - 🔭 I’m currently a 1st year computer science student at Havana University
