@@ -2,7 +2,7 @@
 
 ---
 
-![nuevo logo](https://github.com/CfM47/CfM47/assets/127993286/d42e6f3e-3c4e-4652-9641-6cbcdee79c76)
+![nuevo logo(low)](https://github.com/CfM47/CfM47/assets/127993286/4a3fe2a0-1a7e-4d39-a5d1-b576f6d341a5)
 
 ---
 
