@@ -26,6 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CfM47&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CfM47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=CfM47&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://leetcard.jacoblin.cool/CfM47?border=0&theme=dark" height="150"/>
 </div>
 
 ---
