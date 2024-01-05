@@ -33,7 +33,12 @@
 ### My Social
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://instagram.com/joshuaam_03" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshuaam___03" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/CfM47" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theleywin" height="30" width="40" />
+  </a>
   <a href="https://twitter.com/CoffeMan47?t=mB8_AjuMk6-y8eTOq4t6Ww&s=09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
