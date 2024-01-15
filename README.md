@@ -8,7 +8,7 @@
 
 ### About Me
 
-- 🔭 I’m currently a 1st year computer science student at Havana University
+- 🔭 I’m currently a 2nd year computer science student at Havana University
 
 - 📫 How to reach me: **jossuearteche000@gmail.com**
 
