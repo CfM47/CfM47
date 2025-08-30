@@ -23,9 +23,9 @@
 
 - 🍷 Team player, lover of beatiful and clean code.
 
-- 🤓 Data structures and algorithms, graph theory, theoretical computer science, and languaje and automata theory huge nerd.
+- 🤓 Data structures and algorithms, graph theory, theoretical computer science, and formal language theory huge nerd.
 
-- 🦀 Rustacean
+- 🦀 Rustacean, currently learning LISP
 
 <br/>  
 
