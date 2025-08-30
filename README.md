@@ -17,24 +17,17 @@
 ### Glad to see you here!  
 ## About Me
 
-I am a Computer Science student at the University of Havana, with a strong passion for studying algorithms and exploring new data structures. I have a particular fondness for mathematics, especially graph theory. I enjoy tackling challenging problems and am currently solving problems on Codeforces as a hobby.  
-  
+- 💻 Senior year Computer Science student at the University of Havana.
+
+- ⚙️ Compilers and low level programming in general enthusiast. 
+
+- 🍷 Team player, lover of beatiful and clean code.
+
+- 🤓 Data structures and algorithms, graph theory, theoretical computer science, and languaje and automata theory huge nerd.
+
+- 🦀 Rustacean
 
 <br/>  
-
-
-## Rapidfire  
-
-- 🔭 I’m currently working on some graph algorithm implementations  
-  
-
-- 🌱 I’m currently learning Next.js and MongoDB  
-  
-
-- ❓ Ask me about anything related to centroid decomposition  
-  
-
-- ⚡ Fun fact: 22!6!+1 is not a prime number   
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
