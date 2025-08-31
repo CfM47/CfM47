@@ -12,20 +12,18 @@
 </a>  
   
 
+### Glad to see you here!
 
+## 🚀 About Me
 
-### Glad to see you here!  
-## About Me
+- 🎓 **Senior Computer Science student** at the *University of Havana*.  
+- ⚙️ Passionate about **compilers** and **low-level programming**.  
+- 🍷 **Team player** and advocate for **beautiful, clean code**.  
+- 🤓 Huge nerd for **data structures**, **algorithms**, **graph theory**,  
+  **theoretical computer science**, and **formal language theory**.  
+- 🦀 **Rustacean**, currently diving into the world of **LISP**.  
 
-- 💻 Senior year Computer Science student at the University of Havana.
-
-- ⚙️ Compilers and low level programming in general enthusiast. 
-
-- 🍷 Team player, lover of beatiful and clean code.
-
-- 🤓 Data structures and algorithms, graph theory, theoretical computer science, and formal language theory huge nerd.
-
-- 🦀 Rustacean, currently learning LISP
+💡 Always curious and exploring the balance between theory and practice in Computer Science. 
 
 <br/>  
 
@@ -54,10 +52,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cfm47&show_icons=true&locale=en&layout=compact" alt="cfm47" /></p>
 
+<p><img src="https://leetcard.jacoblin.cool/CfM47?border=0&theme=dark" height="150"/></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cfm47&show_icons=true&locale=en" alt="cfm47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cfm47&" alt="cfm47" /></p>
 
-<p><img src="https://leetcard.jacoblin.cool/CfM47?border=0&theme=dark" height="150"/></p>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rCfM47&&style=flat-square)
