@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Senior Computer Science student** at the *University of Havana*.  
+- 🎓 **Senior year Computer Science student** at the *University of Havana*.  
 - ⚙️ Passionate about **compilers** and **low-level programming**.  
 - 🍷 **Team player** and advocate for **beautiful, clean code**.  
 - 🤓 Huge nerd for **data structures**, **algorithms**, **graph theory**,  
