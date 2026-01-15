@@ -50,13 +50,13 @@
 
 <h3 align="left">My stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cfm47&show_icons=true&locale=en&layout=compact" alt="cfm47" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cfm47&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
 <p><img src="https://leetcard.jacoblin.cool/CfM47?border=0&theme=dark" height="150"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cfm47&show_icons=true&locale=en" alt="cfm47" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cfm47&show_icons=true&locale=en" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cfm47&" alt="cfm47" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cfm47&" alt="" /></p>
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rCfM47&&style=flat-square)
