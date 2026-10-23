@@ -1,5 +1,7 @@
 ## Hey 👋, I'm Jossué Arteche!  
   
+![Profile views counter](https://komarev.com/ghpvc/?username=rCfM47&&style=flat-square)
+[![committers.top badge](https://user-badge.committers.top/cuba_private/CfM47.svg)](https://user-badge.committers.top/cuba_private/CfM47)
 
 <a href="https://github.com/CfM47" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -41,14 +43,40 @@
 
 <h3 align="left">My stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cfm47&show_icons=true&locale=en&layout=compact" alt="" /></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CfM47&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CfM47&theme=default" alt="Profile summary" />
+  </picture>
+</div>
 
-<p><img src="https://leetcard.jacoblin.cool/CfM47?border=0&theme=dark" height="150"/></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=CfM47&theme=github_dark&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=CfM47&theme=default&hide_border=true" alt="Contribution streak" height="200" />
+  </picture>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cfm47&show_icons=true&locale=en" alt="" /></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CfM47&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CfM47&theme=default" alt="Repositories per language" height="200" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CfM47&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CfM47&theme=default" alt="Most used languages by commits" height="200" />
+  </picture>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cfm47&" alt="" /></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CfM47&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CfM47&theme=default" alt="Contribution stats" height="200" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CfM47&utcOffset=-5&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CfM47&utcOffset=-5&theme=default" alt="Productive time of day" height="200" />
+  </picture>
+</div>
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rCfM47&&style=flat-square)
-[![committers.top badge](https://user-badge.committers.top/cuba_private/CfM47.svg)](https://user-badge.committers.top/cuba_private/CfM47)
